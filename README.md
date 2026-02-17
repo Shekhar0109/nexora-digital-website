@@ -117,7 +117,7 @@ This project is optimized for deployment on:
 
 For project inquiries or collaboration:
 
-- Email: your-email@example.com
+- Email: shekharshashankara@gmail.com
 - Website: (Live link coming soon)
 
 ---
