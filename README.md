@@ -3,7 +3,7 @@
 A modern, premium freelance web development agency website built with Next.js and Tailwind CSS.
 
 ## 🚀 Live Preview
-(Will be deployed soon on Vercel)
+([Live link](https://nexora-digital-website.vercel.app/))
 
 ---
 
@@ -118,7 +118,7 @@ This project is optimized for deployment on:
 For project inquiries or collaboration:
 
 - Email: shekharshashankara@gmail.com
-- Website: (Live link coming soon)
+- Website: ([Live link](https://nexora-digital-website.vercel.app/))
 
 ---
 
